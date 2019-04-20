@@ -1,0 +1,28 @@
+/* created by ankush_953 */
+
+body{
+  font-family: 'Courier New', Courier, monospace;
+}
+
+td{
+  width: 150px;
+  height: 150px;
+  border: 5px solid black;
+  text-align:center;
+  font-size: 1.5em;
+  margin: 0px;
+  padding: 0%;
+}
+
+#Clear{
+  text-align: center;
+  margin-left: 45%;
+  font-size: 1.5em;
+  color:red;
+}
+
+h1{
+  text-align: center;
+  margin: 0px;
+}
+
